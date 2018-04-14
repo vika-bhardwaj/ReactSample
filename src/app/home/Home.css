@@ -1,0 +1,7 @@
+.jumbotron {
+    overflow: auto;
+    padding: 0!important
+}
+.jumbotron p {
+    font-size: 15px
+}
